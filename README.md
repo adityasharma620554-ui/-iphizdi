@@ -155,7 +155,7 @@
             <div class="front">
                 <div class="envelope-wrapper" id="env" onclick="openSurprise()">
                     <div class="letter">
-                        <h1><b>HAPPY <br> BIRTHDAY HIZDI 🖕🖕🥳🥳</b></h1>
+                        <h1><b>HAPPY <br> BIRTHDAY HIZDI 🖕🖕🥳🥳 suny aint coming back</b></h1>
                     </div>
                     <div class="envelope"></div>
                 </div>
@@ -202,6 +202,6 @@
             video.play();
         }
     </script>
-    suny aint coming back 
+    
 </body>
 </html>
