@@ -6,10 +6,10 @@
     <title>Happy Birthday Hizdi!</title>
     <style>
         :root {
-            --red-bg: #FF0000;
-            --cream: #FF0000;
-            --dark-cream: #FF0000;
-            --hot-pink: #FF0000;
+            --pink-bg: #FFC0CB;
+            --cream: #FFFDD0;
+            --dark-cream: #F5F5DC;
+            --hot-pink: #d81b60;
         }
 
         body {
